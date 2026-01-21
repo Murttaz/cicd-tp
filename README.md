@@ -1,3 +1,6 @@
+[![Node.js CI](https://github.com/Murttaz/cicd-tp/actions/workflows/ci.yml/badge.svg)](https://github.com/Murttaz/cicd-tp/actions/workflows/ci.yml)
+
+
 # TP CI/CD
 
 A Node.js application providing a simple greeting service with a REST API. It includes a server built with Express, greeting logic, and comprehensive test
