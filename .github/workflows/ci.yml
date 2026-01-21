@@ -3,9 +3,9 @@ name: Node.js CI
 # Déclencheurs : Le pipeline se lance quand on push ou qu'on fait une Pull Request
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: [ "main", "master", "dev" ]
   pull_request:
-    branches: [ "main", "master" ]
+    branches: [ "main", "master", "dev"]
 
 jobs:
   build-and-test:
